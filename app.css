@@ -1,0 +1,23 @@
+#section2{
+    display: none;
+}
+
+#section3{
+    display: none;
+}
+
+body{
+    background-color: burlywood;
+}
+
+
+#generate {
+    border-color: black;
+    border-width: 5px;
+}
+
+#field {
+border-color: brown;
+border-width: 5px;
+}
+
